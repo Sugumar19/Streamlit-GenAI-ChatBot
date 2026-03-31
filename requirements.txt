@@ -1,3 +1,4 @@
 openai==0.28 # installing 0.28 version of openai becoz its a stable version
 pandas # this is the next package i need because i want to list down all the openai codes and open it through my code
 python-dotenv  # to store secret api key
+langchain-groq
